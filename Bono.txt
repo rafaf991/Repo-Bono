@@ -1,2 +1,5 @@
 Hola este es el bono.
 Bono:+1
+Nombre: Rafael Córdoba López 
+Código: 201630880
+Este es el bono..
